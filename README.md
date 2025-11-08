@@ -1,2 +1,2 @@
-🛠️ Tecnologias utilizadas
+🛠️ Tecnologias utilizadas : 
 Lua 5.x
