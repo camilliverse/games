@@ -1,2 +1,1 @@
-🛠️ Tecnologias utilizadas : 
-Lua 5.x
+Estudo de Lua para desenvolvimento de games. 
